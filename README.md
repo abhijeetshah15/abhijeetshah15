@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning <a href="https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/" target="blank">PowerBI</a>
 
-- 🎹 I enjoy playing electronic piano in my leisure time
-
 - 💬 Ask me about **Python, SQL, & Tableau**
+  
+- 🎹 I enjoy playing electronic piano in my leisure time
 
 - 📫 How to reach me **shah.abhijeet32@gmail.com**
 
