@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **shah.abhijeet32@gmail.com**
 
-- 📄 Know about my experiences <a href="https://github.com/abhijeetshah15/Abhijeet_Shah---Resume/blob/main/Abhijeet_Shah__%20Resume.pdf" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="[https://github.com/abhijeetshah15/Abhijeet_Shah---Resume/blob/main/Abhijeet_Shah__%20Resume.pdf](https://github.com/abhijeetshah15/Abhijeet_Shah---Resume/blob/12e0416b392890b46dbfc4f5cc3f711b42a82f2d/Abhijeet_Shah__Resume.pdf)" target="blank">Resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
