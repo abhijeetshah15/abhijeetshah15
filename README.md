@@ -4,13 +4,11 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently pursuing MEng. in CS at Oregon State University
+- 🔭 MEng in Computer Science from Oregon State University 🎓
 
-- 🌱 I’m currently looking for a Job in the field of Data Science or Data Analysis
+- Business Data Analyst @ TruDoc 🧑‍💻
 
-- 🌱 I’m currently learning <a href="https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/" target="blank">PowerBI</a>
-
-- 💬 Ask me about **Python, SQL, & Tableau**
+- 💬 Ask me about **Python Automation & SQL**
   
 - 🎹 I enjoy playing electronic piano in my leisure time
 
