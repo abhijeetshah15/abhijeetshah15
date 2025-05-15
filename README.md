@@ -6,9 +6,9 @@
 
 - MEng in Computer Science from Oregon State University 🎓
 
-- Business Data Analyst @ TruDoc 🧑‍💻
+- Data Engineer-II @ TruDoc 🧑‍💻
 
-- 💬 Ask me about **Python Automation & SQL**
+- 💬 Ask me about **Python Automation, SQL, and ETL Tools like Apache Airflow**
   
 - 🎹 I enjoy playing electronic piano in my leisure time
 
